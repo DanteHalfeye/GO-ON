@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu.unity
+    guid: 6f2d758ab49675a40bb54238c7b88172
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelLoader.unity
+    guid: 1ca401ecfb3720b4c90dd5def2661ffc
+  - enabled: 1
+    path: Assets/Scenes/Nivel-1.unity
+    guid: 2e1f0b46ba9317542ab45d3ed497d4f5
+  - enabled: 1
+    path: Assets/Game/Scenes/LoadingIntoBoss.unity
+    guid: 75fd3977aa63d8d4f8659d4e3b6d24a9
+  - enabled: 1
+    path: Assets/Game/Scenes/Boss!.unity
+    guid: 7badb18fe69f5984cb1326d96bd7fd5c
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelLoad2.unity
+    guid: 201fdef2ce598664bbf2b907719f90e7
+  - enabled: 1
+    path: Assets/Scenes/Nivel-2.unity
+    guid: ddfa9d8ae7ef0f94f8110e5723a0a33b
+  - enabled: 1
+    path: Assets/Game/Scenes/LoadingIntoBoss2.unity
+    guid: cf3d212bf5881ca428b323f9f95e8a9a
+  - enabled: 1
+    path: Assets/Game/Scenes/Boss!!.unity
+    guid: 3d79396d09c636640b2cbbc8ea921a32
+  - enabled: 1
+    path: Assets/Game/Scenes/Creditos.unity
+    guid: 9727ea860578b304e90d7018c8033de5
+  m_configObjects: {}
